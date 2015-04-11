@@ -5,3 +5,4 @@
 
 feature-Aのための変更。
 FIX-Bの変更を追加しました。
+FEATURE-C
